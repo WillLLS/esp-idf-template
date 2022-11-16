@@ -1,0 +1,8 @@
+build/
+sdkconfig
+sdkconfig.old
+.vscode/
+main/decode_frame.c
+main/decode_frame.h
+main/mqtt.c
+main/mqtt.h
